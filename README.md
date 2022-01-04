@@ -108,7 +108,7 @@ public class BestBuyPage extends BrowserUtils {
 ```
 
 `report`
-![](resources/Images/1.png)
+![](src/test/resources/Images/1.png)
 ![](images/2.png)
 ![](images/3.png)
 ![](images/4.png)
